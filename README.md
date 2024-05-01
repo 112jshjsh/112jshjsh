@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=112jshjsh)](https://solved.ac/11jshjsh/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=112jshjsh)](https://solved.ac/112jshjsh/)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuJSH&show_icons=true&theme=buefy&hide=stars,contribs&count_private=true)
