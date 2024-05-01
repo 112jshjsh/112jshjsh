@@ -6,8 +6,12 @@
 🏫 Kookmin Univ. - Software
 <br/>
 📱 UI/UX Design & Front-End Develop
-
 <br/>
+<br/>
+<a href="112jshjsh@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@kookmin.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@112jshjsh/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
+
 
 ### 👩‍💻 Skills
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -31,6 +35,16 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/juptyer-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
+<br/>
+<br/>
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=112jshjsh)](https://solved.ac/11jshjsh/)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuJSH&show_icons=true&theme=buefy&hide=stars,contribs&count_private=true)
+-->
 
 </div>
 <!--
