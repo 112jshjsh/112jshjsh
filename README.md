@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### JEONG SU HYEON 
+---
+🏫 Kookmin University - Software
 <!--
 **kmujsh/kmujsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
