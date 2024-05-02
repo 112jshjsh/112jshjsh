@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&animation=fadeIn&text=KMUJSH&fontColor=483D8B&fontSize=60&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&animation=fadeIn&text=112JSHJSH&fontColor=483D8B&fontSize=60&fontAlignY=40)
 
 ## JEONG SU HYEON 
 🏫 Kookmin Univ. - Software
