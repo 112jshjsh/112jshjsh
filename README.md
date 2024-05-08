@@ -8,7 +8,7 @@
 📱 UI/UX Design & Front-End Develop
 <br/>
 <br/>
-<a href="112jshjsh@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@kookmin.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:112jshjsh@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@kookmin.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://velog.io/@112jshjsh/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
