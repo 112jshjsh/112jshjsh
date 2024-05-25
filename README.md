@@ -5,7 +5,7 @@
 ## JEONG SU HYEON 
 🏫 Kookmin Univ. - Software
 <br/>
-📱 UI/UX Design & Front-End Develop
+📱 UI/UX Design & Front-end Develop
 <br/>
 <br/>
 <a href="mailto:112jshjsh@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@kookmin.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
