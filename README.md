@@ -2,10 +2,12 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&animation=fadeIn&text=112JSHJSH&fontColor=483D8B&fontSize=60&fontAlignY=40)
 
-## JEONG SU HYEON 
+## SUHYEON JEONG
 🏫 Kookmin Univ. - Software
 <br/>
 📱 UI/UX Design & Front-end Develop
+<br/>
+🔤 KOR/ENG
 <br/>
 <br/>
 <a href="mailto:112jshjsh@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/112jshjsh@kookmin.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
