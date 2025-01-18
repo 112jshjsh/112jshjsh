@@ -5,7 +5,7 @@
 ## SUHYEON JEONG
 🏫 Kookmin Univ. - Software
 <br/>
-📱 UI/UX Design & Front-end Develop
+📱 Front-end Developer
 <br/>
 🔤 KOR/ENG
 <br/>
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ### 📖 Studying
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
