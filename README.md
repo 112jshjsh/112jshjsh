@@ -5,8 +5,6 @@
 ## SUHYEON JEONG
 🏫 Kookmin Univ. - Software
 <br/>
-📱 Front-end Developer
-<br/>
 🔤 KOR/ENG
 <br/>
 <br/>
